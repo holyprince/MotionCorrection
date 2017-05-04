@@ -88,6 +88,5 @@ int main()
     cout<< abs(cb[1])<<endl;
     //Vector<complex<double> > shift;
 
-
         return 0;
 }
